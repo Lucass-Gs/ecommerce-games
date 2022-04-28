@@ -1,0 +1,18 @@
+button{
+      display: flex;
+      align-items: center;
+      margin-left: 10px;
+      align-self: center;
+      padding: 10px;      
+      height: 30px;
+      background-color: #003180 ;
+      border: none;
+      border-radius: 5px;
+      color: #eee;
+      cursor: pointer;
+      font-weight: bold;
+}
+button:hover{
+      background-color: white ;
+      color: black;
+}

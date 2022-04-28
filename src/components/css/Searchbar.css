@@ -1,0 +1,13 @@
+.searchbar-input{
+      display: flex;      
+      align-items: center;
+      margin-left: 450px;               
+}
+.search-container{
+      padding-left: 10px;       
+      width: 400px;
+      height: 40px;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;      
+}

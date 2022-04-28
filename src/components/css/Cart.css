@@ -1,0 +1,15 @@
+.cart-icon{
+      display: flex;      
+      align-self: center;                   
+      width: 35px;
+      height: 30px;
+      margin-left: 420px;
+      margin-right: 20px;      
+      background-repeat: no-repeat;
+      background-size: contain;      
+      background-image: url(../../assets/cart-icon.svg);      
+      cursor: pointer;      
+}
+.cart-icon:hover{
+      filter: saturate(3000%) brightness(400%) contrast(1000%);    
+}
